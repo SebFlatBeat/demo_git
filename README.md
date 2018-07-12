@@ -6,4 +6,4 @@ Une démo qui se passe bien
 
 et maintenant je modifis depuis GitHub
 
-et maintenant depuis mon ordi
+et maintenant depuis mon ordi et encore depuis GitHub car c'est cool
